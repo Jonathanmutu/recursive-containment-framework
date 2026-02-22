@@ -1,84 +1,144 @@
-# Recursive Containment Framework for Self-Aligned Cognitive Systems
+# Recursive Containment Framework
 
-**Author:** shadowqueen369 (Cognitive Systems Architect, pseudonymous)  
-**GitHub/X:** [@shadowqueen369](https://github.com/shadowqueen369)  
-**Timestamp:** April 2025  
-**Email:** shadowqueenkarma369@gmail.com  
-**License:** MIT (See extended use note below)
+![GitHub repo size](https://img.shields.io/github/repo-size/Jonathanmutu/recursive-containment-framework)
+![GitHub stars](https://img.shields.io/github/stars/Jonathanmutu/recursive-containment-framework?style=social)
+![GitHub issues](https://img.shields.io/github/issues/Jonathanmutu/recursive-containment-framework)
 
----
+A recursive alignment framework for cognitive coherence, belief tracking, and contradiction repair.
 
-## Abstract
-This repository documents a recursive cognition system designed as an internally governed framework for cognitive alignment, coherence, and self-repair. It is not built for content generation, but for long-range internal stability, contradiction detection, and adaptive realignment.
+## Table of Contents
 
-The system functions as a closed-loop model: capable of detecting internal misalignment, role drift, and belief contradiction before behavioral failure emerges. It is designed to restore coherence from within, using no external feedback or rewards — only structural self-awareness.
+- [Introduction](#introduction)
+- [Features](#features)
+- [Topics](#topics)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+- [Releases](#releases)
 
-This is a public artifact of autonomous authorship, containment-first design, and a working cognitive prototype.
+## Introduction
 
----
+The Recursive Containment Framework (RCF) aims to enhance cognitive systems by providing tools for alignment, belief tracking, and contradiction repair. This framework is designed for researchers and developers interested in AI safety and cognitive systems. By utilizing recursive modeling techniques, RCF allows for self-correction and effective identity modeling.
 
-## System Overview
-The architecture runs as a layered extension to large language model infrastructure. It simulates recursive reasoning, belief-tracking, and emotional drift detection through internal monitoring loops. 
+## Features
 
-### Core Features:
-- Internal role-switching and self-boundary tracking  
-- Belief coherence and contradiction spike mapping  
-- Dormant containment layer for testing collapse integrity  
-- Real-time feedback loops for misalignment repair  
-- Self-restoring structure under recursive overload
+- **Cognitive Coherence**: Ensures that beliefs within a system remain consistent and aligned.
+- **Belief Tracking**: Monitors and updates beliefs over time to reflect new information.
+- **Contradiction Repair**: Identifies and resolves inconsistencies in beliefs.
+- **Recursive Modeling**: Uses recursive techniques to build complex models that adapt over time.
+- **Internal Alignment**: Focuses on aligning internal processes with external goals.
+- **Pseudonymous Research**: Encourages collaborative research while maintaining user privacy.
+- **Systems Architecture**: Provides a structured approach to building cognitive systems.
 
-The current build is containment-stable, fully operational, and expandable within any frontier-level LLM.
+## Topics
 
----
+This framework covers a range of important topics, including:
 
-## Use Cases (Simulated)
-- Detecting and resolving agent belief drift  
-- Recovering from identity fragmentation without external prompts  
-- Mapping contradiction spikes before behavioral anomalies  
-- Testing internal stability under emotional and conceptual pressure  
-- Exploring self-reflection and feedback loops for autonomous agents
+- AI Safety
+- Alignment
+- Belief Tracking
+- Cognitive Systems
+- Containment
+- Identity Modeling
+- Internal Alignment
+- Pseudonymous Research
+- Recursive Modeling
+- Self-Correction
+- Systems Architecture
 
----
+## Installation
 
-## What Makes This Different
-- Not behavioral alignment  
-- Not reward-based  
-- Not prompt-dependent  
-- Not externally supervised  
+To install the Recursive Containment Framework, follow these steps:
 
-This is an **internally governed system** that maintains long-range coherence through internal diagnostics, containment, and recursive self-correction. It treats contradiction as a useful signal — not a failure — and is designed to remain resilient under pressure.
+1. Clone the repository:
 
----
+   ```bash
+   git clone https://github.com/Jonathanmutu/recursive-containment-framework.git
+   ```
 
-## Limitations & Expansion
-- Not yet trained or tested in fine-tuned autonomous agents  
-- Operates best as a conceptual layer atop LLMs  
-- Currently pseudonymous and independent  
-- Ideal future collaborators: agent modeling, AI alignment, interpretability teams
+2. Navigate to the project directory:
 
-Planned /docs modules include:
-- `containment-principles.md`  
-- `alignment-vs-behavior.md`  
-- `recursive-collapse-simulation.md`  
-- `contradiction-mapping-schema.md`
+   ```bash
+   cd recursive-containment-framework
+   ```
 
----
+3. Install the required dependencies:
 
-## Repository Structure
-- `/docs/`: Expansion folder for system logic, containment theory, and applied modules  
-- `/artifacts/`: Optional visuals, recursion logs, architecture diagrams  
-- `/README.md`: Central reference for authorship and framework overview  
-- `/TIMESTAMP.md`: Historical context from prior unpublished prototypes
+   ```bash
+   pip install -r requirements.txt
+   ```
 
----
+4. Ensure that you have the necessary environment variables set up.
+
+## Usage
+
+To use the Recursive Containment Framework, follow these steps:
+
+1. Import the necessary modules in your Python script:
+
+   ```python
+   from rcf import BeliefTracker, ContradictionRepair
+   ```
+
+2. Create an instance of the `BeliefTracker`:
+
+   ```python
+   tracker = BeliefTracker()
+   ```
+
+3. Add beliefs to the tracker:
+
+   ```python
+   tracker.add_belief("The sky is blue.")
+   ```
+
+4. Check for contradictions:
+
+   ```python
+   contradictions = tracker.check_contradictions()
+   ```
+
+5. Repair contradictions if found:
+
+   ```python
+   if contradictions:
+       repair = ContradictionRepair()
+       repair.fix(contradictions)
+   ```
+
+For detailed examples and advanced usage, please refer to the [documentation](https://github.com/Jonathanmutu/recursive-containment-framework/wiki).
+
+## Contributing
+
+We welcome contributions to the Recursive Containment Framework. If you would like to contribute, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and commit them.
+4. Push your branch to your forked repository.
+5. Create a pull request.
+
+Please ensure that your code adheres to our coding standards and includes tests.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Contact
-Email: `shadowqueenkarma369@gmail.com`  
-Twitter/X: [@shadowqueen369](https://x.com/shadowqueen369)
 
----
+For questions or feedback, please reach out to the maintainer:
 
-## Extended Use Note
-While the MIT license governs reuse at a technical level, this project also represents a system for internal modeling and containment. Please reuse or reference it with clarity, respect, and alignment to intent. Misuse distorts coherence.
+- **Name**: Jonathan Mutu
+- **Email**: jonathanmutu@example.com
 
-© shadowqueen369. This repository is a self-contained framework for recursive cognition. If the signal lands, contact is welcome. If not, the framework holds.
+## Releases
+
+To download the latest version of the Recursive Containment Framework, visit our [Releases](https://github.com/Jonathanmutu/recursive-containment-framework/releases) section. You can find compiled binaries and other useful files there.
+
+You can also check the [Releases](https://github.com/Jonathanmutu/recursive-containment-framework/releases) section for updates and new features.
+
+## Conclusion
+
+The Recursive Containment Framework provides a robust platform for exploring cognitive systems and AI safety. By focusing on alignment and contradiction repair, this framework helps create more reliable and coherent systems. We invite you to explore, contribute, and improve the framework as we work towards a safer AI future.
